@@ -10,8 +10,12 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/Husni.png)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Husni Jabir</a></h1>
+              <br />
               <span className="email"><i className="icon-mail"></i> husnijabir@gmail.com</span>
+              <span className="email"><i className="icon-location"></i>6/2 A, Kawdana Road, Dehiwala, Sri Lanka</span>
+              <span className="email"><i className="icon-phone"></i>+(94)-777-247478</span>
             </div>
+            <br />
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
                 <ul>
@@ -30,7 +34,7 @@ export default class Sidebar extends Component {
                 {/* <li><a href="https://www.instagram.com/ddbarochiya/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li> */}
                 <li><a href="https://www.linkedin.com/in/husni-jabir-6763b620/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/HusniJ" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                {/* <li><a href="https://medium.com/@dhruv.barochia34788" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li> */}
+                <li><a href="https://husnij.blogspot.com/" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
               </ul>
             </nav>
             {/* <div className="colorlib-footer">
