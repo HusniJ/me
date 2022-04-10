@@ -11,7 +11,7 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Us</span>
+                    <span className="heading-meta">About</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>Technically competent and industry savvy IT professional with 10+ years of overall experience in designing and developing solutions using front-end engineering framework such as React, Angular and Microsoft .Net technologies.</p>
                     <p>Full-stack developer in .NET and MERN stack along with hardworking, accurate and punctual by nature, keen to learn and to share my knowledge with associates and colleagues</p>
