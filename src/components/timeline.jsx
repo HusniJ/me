@@ -39,7 +39,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Graduate at Staffordshire Unversity, UK <span>2009-2012</span></h2>
-                        <p>I have obtained my Bsc(Hons) in Computing Specialized in Software Engineering. I have learned priniples like Data Structure Manipulation, OOPs, Computer Networks, ICT, Web-Data Management over the years and have better understanding of these subjects</p>
+                        <p>I have obtained my Bsc(Hons) in Computing Specialized in Software Engineering. I have learned principles like Data Structure Manipulation, OOPs, Computer Networks, ICT, Web-Data Management over the years and have a better understanding of these subjects</p>
                       </div>
                     </div>
                   </article>
