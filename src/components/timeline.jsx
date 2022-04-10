@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Senior Consultant at Virtusa <span>2012-present</span></h2>
+                        <h2>Senior Consultant at Virtusa, Sri Lanka <span>2012-present</span></h2>
                         <p>Provide high quality software products based on React JS, Angular and
                           .Net for various clients in industries like Insurance, Construction,
                           Manufacturing, Energy and Banking And Finance. Responsible of
@@ -38,7 +38,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Graduate at Staffordshire Unversity, UK <span>2009-2012</span></h2>
+                        <h2>Graduate at Staffordshire University, UK <span>2009-2012</span></h2>
                         <p>I have obtained my Bsc(Hons) in Computing Specialized in Software Engineering. I have learned principles like Data Structure Manipulation, OOPs, Computer Networks, ICT, Web-Data Management over the years and have a better understanding of these subjects</p>
                       </div>
                     </div>
