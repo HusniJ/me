@@ -10,7 +10,6 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/Husni.png)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Husni Jabir</a></h1>
-              <br />
               <span className="email"><i className="icon-mail"></i> husnijabir@gmail.com</span>
               <span className="email"><i className="icon-location"></i>6/2 A, Kawdana Road, Dehiwala, Sri Lanka</span>
               <span className="email"><i className="icon-phone"></i>+(94)-777-247478</span>
