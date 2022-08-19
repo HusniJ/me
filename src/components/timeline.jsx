@@ -17,11 +17,27 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-6">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Senior Developer at NEXT | Technology, Sri Lanka <span>2022 - Present</span></h2>
+                        <p>Provide high quality software products based on React JS and
+                          .Net for NEXT Holding. Responsible of
+                          analyzing the initial requirement, design and providing best solutions
+                          with modern concepts to improve customer experience(CCX). Attending to change requests,
+                          providing end to end live support and resolving issues in the live
+                          system in a rapid manner.</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Senior Consultant at Virtusa, Sri Lanka <span>2012-present</span></h2>
+                        <h2>Senior Consultant at Virtusa, Sri Lanka <span>2012 - 2022</span></h2>
                         <p>Provide high quality software products based on React JS, Angular and
                           .Net for various clients in industries like Insurance, Construction,
                           Manufacturing, Energy and Banking And Finance. Responsible of
@@ -38,7 +54,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Graduate at Staffordshire University, UK <span>2009-2012</span></h2>
+                        <h2>Graduate at Staffordshire University, UK <span>2009 - 2012</span></h2>
                         <p>I have obtained my Bsc(Hons) in Computing Specialized in Software Engineering. I have learned principles like Data Structure Manipulation, OOPs, Computer Networks, ICT, Web-Data Management over the years and have a better understanding of these subjects</p>
                       </div>
                     </div>
@@ -49,7 +65,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>1994-2007</span></h2>
+                        <h2>Primary and Higher Education <span>1994 - 2007</span></h2>
                         <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Combined Maths At Saint Aloysius College, Galle, Sri Lanka. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p>
                       </div>
                     </div>
