@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Senior Developer at NEXT | Technology, Sri Lanka <span>2022 - Present</span></h2>
+                        <h2>Senior Developer at NEXT, Leicester, United Kingdom <span>2022 - Present</span></h2>
                         <p>Provide high quality software products based on React JS and
                           .Net for NEXT Holding. Responsible of
                           analyzing the initial requirement, design and providing best solutions
