@@ -1,5 +1,34 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# linux folders
+/User
+/Backups
+/Cache
+/CachedData
+/CachedProfilesData
+/Code Cache
+/Crashpad
+/databases
+/DawnCache
+/Dictionaries
+/GPUCache
+/Local Storage
+/logs
+/Service Worker
+/WebStorage
+
+# linux files
+code.lock
+Cookies
+Cookies-journal
+languagepacks.json
+machineid
+Network Persistent State
+Preferences
+TransportSecurity
+Trust Tokens
+Trust Tokens-journal
+
 # dependencies
 /node_modules
 /.pnp
@@ -17,6 +46,7 @@
 .env.development.local
 .env.test.local
 .env.production.local
+
 
 npm-debug.log*
 yarn-debug.log*
